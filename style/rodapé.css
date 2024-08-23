@@ -1,8 +1,9 @@
-hr {
-    margin: 0;
+.rodape{
+    background: var(--azul-degrade);
 }
 
-.rodapé {
-    background-color: var(--branco);
-    padding: 1em;
+.rodape__titulo{
+    font-size: 17px;
+    font-weight: 500;
+    padding: 1em 0.5em;
 }
